@@ -1,0 +1,18 @@
+.note-editor{
+    border-color: #e3e3e3 !important;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
+.note-toolbar{
+    background-color: #f3f3f3 !important;
+}
+.note-statusbar{
+    display: none;
+}
+
+.input-group-addon input{
+    border-radius: 0 !important;
+    -moz-border-radius: 0 !important;
+    -webkit-border-radius: 0 !important;
+}

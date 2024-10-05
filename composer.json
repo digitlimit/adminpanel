@@ -1,0 +1,26 @@
+{
+    "name": "digitlimit/adminpanel",
+    "description": "The best Laravel Adminpanel that makes admin work a breeze",
+    "keywords": ["laravel", "admin", "template", "manage", "control"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mbah Emeka",
+            "email": "frankemeks77@yahoo.com",
+            "website": "http://www.emekamba.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~5.0"
+    },
+    "require-dev": {
+        "mockery/mockery": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Digitlimit\\Adminpanel": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
